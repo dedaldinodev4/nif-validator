@@ -1,0 +1,14 @@
+{
+  "name": "nif-validator",
+  "author": {
+    "email": "dedaldinodev4@gmail.com",
+    "name": "Dedaldino Daniel"
+  },
+  "scripts": {
+    "dev": "tsx watch --ignore ./node_modules src/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.6.2",
+    "typescript": "^5.3.2"
+  }
+}
